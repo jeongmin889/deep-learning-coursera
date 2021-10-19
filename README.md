@@ -1,7 +1,7 @@
 # deep-learning-coursera
 ####  Master the fundamentals of deep learning and break into AI.
 #### Instructor: [Andrew Ng](https://www.andrewng.org/about/, "link")
-#### Coursera : [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning, "link")
+#### Coursera : [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning , "link")
 
 ## Notice
 #### This repository is for my study work of the coursera, so the quiz contains error values. Keep in mind when you want to refer to the files.
