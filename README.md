@@ -9,7 +9,7 @@
 ## Tips After taking classes!
 #### For C1-Week4 2nd assignment : You should change the code as follows."print_cost" => "cost". 
 #### if not you can't run the test code line.
-print("Cost after first iteration: " + str(costs[0]))
+        print("Cost after first iteration: " + str(costs[0]))
 
 #### Original
         # Print the cost every 100 training example
