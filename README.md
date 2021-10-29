@@ -7,7 +7,17 @@
 #### This repository is for my study work of the coursera, so the quiz contains error values. Keep in mind when you want to refer to the files.
     
 ## Tips After taking classes!
-#### For C1-Week4 2nd assignment : You should change the code as follows."print_cost" => "cost". if not you can't run the test code line. ()
+#### For C1-Week4 2nd assignment : You should change the code as follows."print_cost" => "cost". 
+#### if not you can't run the test code line.
+print("Cost after first iteration: " + str(costs[0]))
+
+#### Original
+        # Print the cost every 100 training example
+        if print_cost and i % 100 == 0:
+            print("Cost after iteration {}: {}".format(i, np.squeeze(cost)))
+        if print_cost and i % 100 == 0:
+            costs.append(cost)
+### Revised
         # Print the cost every 100 training example
         if cost and i % 100 == 0:
             print("Cost after iteration {}: {}".format(i, np.squeeze(cost)))
