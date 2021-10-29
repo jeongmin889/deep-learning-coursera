@@ -6,7 +6,13 @@
 ## Notice
 #### This repository is for my study work of the coursera, so the quiz contains error values. Keep in mind when you want to refer to the files.
     
-        
+## Tips After taking classes!
+#### For C1-Week4 2nd assignment : You should change the code as follows.
+        # Print the cost every 100 training example
+        if cost and i % 100 == 0:
+            print("Cost after iteration {}: {}".format(i, np.squeeze(cost)))
+        if cost and i % 100 == 0:
+            costs.append(cost)
      
 ## Programming Assignments
 * Course 1: Neural Networks and Deep Learning
